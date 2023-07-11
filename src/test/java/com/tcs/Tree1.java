@@ -13,6 +13,18 @@ public class Tree1 {
 		System.out.println("three");
 	}
 
+	public void seven() {
+		System.out.println("seven");
+	}
+
+	public void eight() {
+		System.out.println("eight");
+	}
+
+	public void nine() {
+		System.out.println("nine");
+	}
+	
 	public void four() {
 		System.out.println("four");
 	}
@@ -24,4 +36,6 @@ public class Tree1 {
 	public void six() {
 		System.out.println("six");
 	}
+	
 }
+
