@@ -12,4 +12,16 @@ public class Tree1 {
 	public void three() {
 		System.out.println("three");
 	}
+
+	public void four() {
+		System.out.println("four");
+	}
+
+	public void five() {
+		System.out.println("five");
+	}
+
+	public void six() {
+		System.out.println("six");
+	}
 }
