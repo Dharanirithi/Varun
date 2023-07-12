@@ -37,5 +37,16 @@ public class Tree1 {
 		System.out.println("six");
 	}
 	
+	public void four4() {
+		System.out.println("four4");
+	}
+
+	public void five5() {
+		System.out.println("five5");
+	}
+
+	public void six6() {
+		System.out.println("six6");
+	}
 }
 
